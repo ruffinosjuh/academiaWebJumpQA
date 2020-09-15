@@ -1,0 +1,6 @@
+---
+default: -p html -p pretty -p json
+html: --format html --out=data/report.html
+json: --format json --out=data/report.json
+pretty: --format pretty
+

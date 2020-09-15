@@ -1,0 +1,55 @@
+
+#cadastro
+campo_primeiro_nome:      "#firstname"
+campo_segundo_nome:       "#lastname"
+campo_email:              "#email_address"
+campo_senha:              "#password"
+confirmacao_senha:        "#password-confirmation"
+botao_criar_conta:        "button[title='Create an Account']"
+
+#pesquisar produto
+campo_pesquisa:           "#search"
+botao_pesquisa:           "button[title='Search']"
+produto_pesquisado:       ".product-item-link"
+
+#adicionar produto no carrinho
+tamanho_produto:          "#option-label-size-142-item-169"
+cor_produto:              "#option-label-color-93-item-49"
+botao_adicionar_carrinho: "#product-addtocart-button"
+menssagem_sucesso:        ".message-success"
+
+#finalizar compra
+numero_produtos_carrinho: ".counter"
+icone_carrinho:           ".showcart"
+botao_finalizar_compra:   "#top-cart-btn-checkout"
+
+#informações de pagamento e entrega
+carregando:               ".loader"
+campo_login:              "#customer-email"
+senha_cliente:            "#customer-password"
+botao_fazer_login:        "button[data-action='checkout-method-login']"
+campo_nome:               "input[name='firstname']"
+campo_segundo_nome2:      "input[name='lastname']"
+campo_rua:                "input[name='street[0]']"
+campo_cidade:             "input[name='city']"
+selecao_pais:             "option[value='BR']"
+selecao_estado:           "option[value='508']"
+campo_cep:                "input[name='postcode']"
+campo_telefone:           "input[name='telephone']"
+botao_entrega:            ".radio"
+botao_continuar:          ".continue"
+
+#checkout
+botao_finalizar_compra:   ".checkout"
+menssagem_finalizacao:    ".page-title"
+
+
+
+
+
+
+
+
+
+
+
